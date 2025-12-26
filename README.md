@@ -231,9 +231,9 @@ Lihat `data_format.py` untuk format lengkap.
 
 | Anggota | Fitur | Algoritma |
 |---------|-------|-----------|
-| [Nama 1] | A.1, A.2, A.3 | Greedy |
-| [Nama 2] | B.1, B.2 | Backtracking |
-| [Nama 3] | C.1, C.2 | Dynamic Programming |
+| [Herlangga] | A.1, A.2, A.3 | Greedy |
+| [Fauzi,Chandra] | B.1, B.2 | Backtracking |
+| [Nawwaf, Farid] | C.1, C.2 | Dynamic Programming |
 
 ---
 
